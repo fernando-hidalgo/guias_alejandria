@@ -4,7 +4,8 @@
 
 ## Gravity Rush 1 & 2 - PC Edition
 1. Juego + Update: https://dlpsgame.com/?s=gravity+rush
-2. Instalación: https://www.youtube.com/watch?v=uPvWiL-1G2w
+2. Sys Modules_ https://www.reddit.com/r/ps4piracy/comments/1eocsil/firmware_1100_decrypted_sys_modules_files/
+3. Instalación: https://www.youtube.com/watch?v=uPvWiL-1G2w
 
 ## Switch en PC
 1. Prod Keys + Firmware: https://prodkeys.net/yuzu-prod-keys-n25/
