@@ -1,3 +1,11 @@
+## 🏴‍☠️PS3🏴‍☠️
+1. Instalar HEN: https://www.youtube.com/watch?v=dAhf6whlWUM (La ZukoStore es basura, ignorar)
+2. Instalar IrisMan (Gestor de Archivos): https://github.com/aldostools/irisman/releases
+3. Instalar PKGi (Store top): https://github.com/bucanero/pkgi-ps3/releases/tag/v1.2.4
+4. PKGi requiere de estos 2 txt https://www.reddit.com/r/ps3piracy/comments/i5m89e/comment/inj9kwo/ (Una vez añadidos, entrar en la store y darle a actualizar)
+
+ISO and JB folder games don't need RAP licences. Just copy the entire folder inside "GAMES" and then use Webman, IRISMAN, Managunz or multiman to play it. Webman allows you to launch the games from the XMB, so it's the recommended launcher to use. 
+
 ## 🏴‍☠️Wii U🏴‍☠️
 1. Aroma CFW (Liberar): https://wiiu.hacks.guide/aroma/getting-started.html
 2. WUP Installer GX2 (Instalador de Programas): https://github.com/Fangal-Airbag/wup-installer-gx2/releases
