@@ -2,6 +2,11 @@
 1. Juego + Update: https://dlpsgame.com/bloodborne-game-of-the-year-edition-ps4-download-free/
 2. Instalación: https://www.youtube.com/watch?v=3CMIIqD_lgw
 
+## Gravity Rush 1 & 2 - PC Edition
+1. Juego + Update: https://dlpsgame.com/?s=gravity+rush
+2. Sys Modules_ https://www.reddit.com/r/ps4piracy/comments/1eocsil/firmware_1100_decrypted_sys_modules_files/
+3. Instalación: https://www.youtube.com/watch?v=uPvWiL-1G2w
+
 ## Switch en PC
 1. Prod Keys + Firmware: https://prodkeys.net/yuzu-prod-keys-n25/
 2. Roms 1: https://romshq.com/
