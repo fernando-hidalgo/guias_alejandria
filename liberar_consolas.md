@@ -4,7 +4,9 @@
 3. Instalar PKGi (Store top): https://github.com/bucanero/pkgi-ps3/releases/tag/v1.2.4
 4. PKGi requiere de estos 2 txt https://www.reddit.com/r/ps3piracy/comments/i5m89e/comment/inj9kwo/ (Una vez añadidos, entrar en la store y darle a actualizar)
 
-ISO and JB folder games don't need RAP licences. Just copy the entire folder inside "GAMES" and then use Webman, IRISMAN, Managunz or multiman to play it. Webman allows you to launch the games from the XMB, so it's the recommended launcher to use. 
+Para usar juegos JB Folder, se traspasan a la consola con un USB en formato NTFS (para poder usar juegos >4GB), colocandolos en la carpeta GAMES
+
+Problemas audio HDMI: https://www.reddit.com/r/PS3/comments/77jna6/comment/i8log78/
 
 ## 🏴‍☠️Wii U🏴‍☠️
 1. Aroma CFW (Liberar): https://wiiu.hacks.guide/aroma/getting-started.html
