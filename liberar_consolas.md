@@ -4,9 +4,14 @@
 3. Instalar PKGi (Store top): https://github.com/bucanero/pkgi-ps3/releases/tag/v1.2.4
 4. PKGi requiere de estos 2 txt https://www.reddit.com/r/ps3piracy/comments/i5m89e/comment/inj9kwo/ (Una vez añadidos, entrar en la store y darle a actualizar)
 
-Para usar juegos JB Folder, se traspasan a la consola con un USB en formato NTFS (para poder usar juegos >4GB), colocandolos en la carpeta GAMES
-
 Problemas audio HDMI: https://www.reddit.com/r/PS3/comments/77jna6/comment/i8log78/
+
+### Instalar Juegos a mano
+1. Descargarlos en formato JB Folder, Vimms Lair los tiene
+2. Pasarlos a un USB en formato NTFS, para que quepan aquellos de mas de 4GB
+3. En IrisMan -> Start -> Herramientas -> Gestor de archivos -> Colocar los juegos en hdd0/GAMES -> Select + Start para salir
+
+Listo, IrisMan verá los juegos y los monta como un disco
 
 ## 🏴‍☠️Wii U🏴‍☠️
 1. Aroma CFW (Liberar): https://wiiu.hacks.guide/aroma/getting-started.html
